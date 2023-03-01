@@ -7,7 +7,7 @@ package mx.itson.wabuwebi.exception;
 
 /**
  *
- * @author My Pc
+ * @author Jesus Quintero
  */
 public class DigitosException extends Exception{
     public DigitosException(String errorMessage){

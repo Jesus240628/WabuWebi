@@ -7,7 +7,7 @@ package mx.itson.wabuwebi.ui;
 
 /**
  *
- * @author Jesus Quintero
+ * @author Jesus Quintero sis
  */
 public class Main {
 
