@@ -9,6 +9,8 @@ package mx.itson.wabuwebi.exception;
  *
  * @author My Pc
  */
-public class DigitosException {
-    
+public class DigitosException extends Exception{
+    public DigitosException(String errorMessage){
+    super(errorMessage);
+    }
 }
